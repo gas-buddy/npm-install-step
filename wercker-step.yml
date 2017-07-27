@@ -1,0 +1,7 @@
+name: npm-install
+version: 1.0.0
+description: Run npm install with an NPM_TOKEN
+keywords:
+  - node
+  - npm
+  - install
