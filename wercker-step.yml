@@ -1,7 +1,7 @@
 name: npm-install
-version: 1.0.0
-description: Run npm install with an NPM_TOKEN
+version: 2.0.0
+description: Run npm ci with an NPM_TOKEN
 keywords:
   - node
   - npm
-  - install
+  - ci
